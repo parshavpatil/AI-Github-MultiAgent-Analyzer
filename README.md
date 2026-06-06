@@ -1,19 +1,10 @@
----
-
-title: AI Github Intelligence System
-emoji: 🚀
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.46.1
-app_file: app.py
-pinned: false
--------------
-
 # 🚀 AI GitHub Intelligence System
 
-A Multi-Agent AI System that analyzes GitHub repositories and generates professional intelligence reports using LangGraph, LangChain, Gemini, and the GitHub REST API.
+A Multi-Agent AI System that analyzes GitHub repositories and generates professional intelligence reports using **LangGraph**, **LangChain**, **Gemini**, and the **GitHub REST API**.
 
+The system automatically studies a repository, identifies technologies, summarizes the project, generates interview preparation material, evaluates project complexity, and exports a professional PDF report.
+
+---
 
 ## ✨ Features
 
