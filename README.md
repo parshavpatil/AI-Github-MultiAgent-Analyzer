@@ -1,5 +1,7 @@
 # 🚀 AI GitHub Intelligence System
 
+Check it live here: [AI GitHub Intelligence System]([https://food-health-score-predictor.onrender.com](https://ai-app-multiagent-analyzer-k8uefxl6ggbxkdkxyplhcj.streamlit.app/))
+
 A Multi-Agent AI System that analyzes GitHub repositories and generates professional intelligence reports using **LangGraph**, **LangChain**, **Gemini**, and the **GitHub REST API**.
 
 The system automatically studies a repository, identifies technologies, summarizes the project, generates interview preparation material, evaluates project complexity, and exports a professional PDF report.
